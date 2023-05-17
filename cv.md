@@ -46,4 +46,4 @@ Law - 2018 year
 
 **Languages** 
 * Russian - native speaker.
-* English - A2 (B1 in process…)
+* English - B1
