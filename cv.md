@@ -1,4 +1,4 @@
-#Mikhail Naumov
+# Mikhail Naumov
 ********* ********* ********* ********* ********* ********* 
 ## **My Contact Info:**
 * Phone: +375 29 987-96-47
@@ -34,7 +34,7 @@ function bmi(weight, height) {
 }
 
 ********* ********* ********* ********* ********* 
-##Education##
+## Education
 **Ulyanovsk Statte University**
 Law
 
