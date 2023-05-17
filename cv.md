@@ -44,6 +44,6 @@ Law - 2018 year
 * HTML/CSS
 * JavaScript (in process…)
 
-**Languages**
+**Languages** 
 * Russian - native speaker.
 * English - A2 (B1 in process…)
