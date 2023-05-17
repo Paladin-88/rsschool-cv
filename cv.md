@@ -26,6 +26,7 @@ I am 34 years old, I work as a lawer. I think that my actual job will lead me to
  
 
 **Code Examples**
+```
 function bmi(weight, height) {
 
   const bmi = weight/(height*height);
@@ -33,14 +34,15 @@ function bmi(weight, height) {
   return bmi <= 18.5 ? 'Underweight': bmi <= 25 ? 'Normal': bmi <= 30 ? 'Overweight': 'Obese';
 }
 
+```
 ********* ********* ********* ********* ********* 
 ## Education
 **Ulyanovsk Statte University**
-Law
+Law - 2018 year
 
 **Udemy**
-HTML/CSS
-JavaScript (in process…)
+* HTML/CSS
+* JavaScript (in process…)
 
 **Languages**
 Russian - native speaker.
