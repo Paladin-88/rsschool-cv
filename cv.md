@@ -45,5 +45,5 @@ Law - 2018 year
 * JavaScript (in process…)
 
 **Languages**
-Russian - native speaker.
-English - A2 (B1 in process…)
+* Russian - native speaker.
+* English - A2 (B1 in process…)
