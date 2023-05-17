@@ -1,10 +1,10 @@
 #Mikhail Naumov#
 ********* ********* ********* ********* ********* ********* 
 ##**My Contact Info:**##
-Phone: +375 29 987-96-47
-E-mail: denisthecrowley@gamil.com
-GitHub: TheMrCrowley
-Telegram Denis Mythnik
+* Phone: +375 29 987-96-47
+* E-mail: denisthecrowley@gamil.com
+* GitHub: TheMrCrowley
+* Telegram Denis Mythnik
 ********* ********* ********* ********* ********* ********* 
  
 ##About Me##
