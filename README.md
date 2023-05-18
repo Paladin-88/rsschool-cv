@@ -1,1 +1,2 @@
-https://Paladin-88.github.io/rsschool-cv/cv
+
+https://Paladin-88.github.io/rsschool-cv/
